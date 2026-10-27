@@ -126,8 +126,6 @@
 |---------|-----|-------------|
 | Meme Chronicle | http://aitkh.com/tools/meme | Browse Chinese internet memes from 2012–2026: search, roam, and quiz |
 
-## Appendix: Pages Not Listed on the Tools Home
-
 | Feature | URL | Description |
 |---------|-----|-------------|
 | Multi-View Tools | http://aitkh.com/tools/multi-view | Display multiple tools on one screen |
