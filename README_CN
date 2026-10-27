@@ -1,0 +1,136 @@
+# AITKH 功能清单
+
+> 英文版：[README.md](./README.md)
+
+## 文本处理（5）
+
+| 功能 | 地址 | 说明 |
+|------|------|------|
+| 文本对比 | http://aitkh.com/tools/textDiff | 对照两段文本，快速发现内容差异 |
+| 文本提取 | http://aitkh.com/tools/textExtra | 从文本中筛选并提取需要的内容 |
+| 汉字拼音 | http://aitkh.com/tools/pinyin | 汉字转拼音（音标 / 数字声调 / 无声调） |
+| 情感倾向 | http://aitkh.com/tools/sentiment | 判断文字偏正面或负面 |
+| Markdown | http://aitkh.com/tools/markdown | Markdown 编辑 |
+
+## 开发工具（5）
+
+| 功能 | 地址 | 说明 |
+|------|------|------|
+| JSON | http://aitkh.com/tools/json | 格式化与压缩 JSON |
+| 代码格式化 | http://aitkh.com/tools/codeFormat | 美化/压缩 JSON、XML、HTML、CSS、JS、SQL |
+| 配置格式转换 | http://aitkh.com/tools/configConvert | Properties、TOML、YAML、XML 等互转与校验 |
+| Mermaid 图表 | http://aitkh.com/tools/mermaid | 编辑并预览流程图、时序图、甘特图等 |
+| Excalidraw | http://aitkh.com/tools/excalidraw | 浏览器手绘草图、线框与流程图（本机保存） |
+
+## 编码转换（3）
+
+| 功能 | 地址 | 说明 |
+|------|------|------|
+| 二维码 | http://aitkh.com/tools/qrcode | 生成与解析二维码 |
+| Base64 编解码 | http://aitkh.com/tools/base64 | 图片与 Base64 字符串互转 |
+| 进制转换 | http://aitkh.com/tools/baseConvert | 二 / 八 / 十 / 十六进制互转 |
+
+## 安全工具（2）
+
+| 功能 | 地址 | 说明 |
+|------|------|------|
+| 2FA | http://aitkh.com/tools/2fa | 两步验证 |
+| 文件加密 | http://aitkh.com/tools/cryptitFile | 口令或密钥本地加密 / 解密文件 |
+
+## 图像工具（22）
+
+| 功能 | 地址 | 说明 |
+|------|------|------|
+| 一张图片，能做什么 | http://aitkh.com/tools/imagePossibilities | 按场景导览图片能力并跳转对应工具 |
+| 图片文字识别 | http://aitkh.com/tools/ocr | 本地识别图片中英文 |
+| 敏感信息检测 | http://aitkh.com/tools/sensitiveDetect | 识别并打码姓名、证件号、电话、邮箱等 |
+| 图片格式转换 | http://aitkh.com/tools/imageConvert | 转 PNG / JPEG / WebP / AVIF / TIFF / SVG |
+| 图片编辑 | http://aitkh.com/tools/imageEdit | 裁剪、调色、滤镜、水印、自动去边 |
+| 图片拼图 | http://aitkh.com/tools/imageCollage | 多图网格排版拼图 |
+| 图片尺寸调整 | http://aitkh.com/tools/imageResize | 裁切比例并调整输出宽高 |
+| 图片放大 | http://aitkh.com/tools/imageUpscale | Real-ESRGAN 本地放大 |
+| 图片压缩 | http://aitkh.com/tools/imageCompress | 本地压缩，可调质量与尺寸 |
+| 图片隐写 | http://aitkh.com/tools/imageSteganography | 文本藏入图片 / 密钥提取 |
+| GIF 合成 | http://aitkh.com/tools/gifCompose | 多图合成 GIF |
+| 图片转像素 | http://aitkh.com/tools/photo2pixel | 照片转像素艺术 |
+| 关系图谱 | http://aitkh.com/tools/relationGraph | 组织架构、知识图谱、依赖与拓扑 |
+| 人像与手势识别 | http://aitkh.com/tools/portraitAnalysis | 人脸/手框选，估计年龄、性别、表情与手势 |
+| 图像分类 | http://aitkh.com/tools/imageClassify | 识别主要物体类别 |
+| 简笔画识别 | http://aitkh.com/tools/doodleClassify | 识别简笔画对应物品 |
+| 物体检测 | http://aitkh.com/tools/objectDetect | 标出物体与位置 |
+| 人体姿态 | http://aitkh.com/tools/bodyPose | 人体关键点 |
+| 手部关键点 | http://aitkh.com/tools/handPose | 手部关键点 |
+| 人脸网格 | http://aitkh.com/tools/faceMesh | 人脸关键点 |
+| 人像分割 | http://aitkh.com/tools/bodySegmentation | 人像与背景分离 |
+| 深度估计 | http://aitkh.com/tools/depthEstimation | 估计远近并生成深度图 |
+| AI 图片检测 | http://aitkh.com/tools/c2pa | 多角度本地分析是否可能为 AI 生成 |
+
+## 颜色工具（2）
+
+| 功能 | 地址 | 说明 |
+|------|------|------|
+| 图片颜色提取 | http://aitkh.com/tools/colorExtract | 主色与调色板，支持点击取色 |
+| 颜色转换 | http://aitkh.com/tools/colorConvert | HEX / RGB / HSL / HSV / HSB / CMYK / XYZ 等互转 |
+
+## 数学工具（3）
+
+| 功能 | 地址 | 说明 |
+|------|------|------|
+| 中文数字转换 | http://aitkh.com/tools/chineseNumber | 数字转大写、简体、繁体、千分位 |
+| 单位转换 | http://aitkh.com/tools/unitConvert | 长度、质量、面积等常用单位换算 |
+| BMI 计算器 | http://aitkh.com/tools/bmi | 身高体重算 BMI 与健康参考 |
+
+## 时间日期（1）
+
+| 功能 | 地址 | 说明 |
+|------|------|------|
+| 时间戳转换 | http://aitkh.com/tools/timestamp | 秒/毫秒互转，多时区时间 |
+
+## 文件工具（2）
+
+| 功能 | 地址 | 说明 |
+|------|------|------|
+| PDF 工具 | http://aitkh.com/tools/pdf | 加水印 / 图片签章；合并拆分 |
+| 文件转换 | http://aitkh.com/tools/fileConvert | Word、Markdown、HTML、EPUB 等互转 |
+
+## 网络工具（1）
+
+| 功能 | 地址 | 说明 |
+|------|------|------|
+| 地图工具 | http://aitkh.com/tools/map | 浏览地图、标记、轨迹与三维地图 |
+
+## 视频工具（9）
+
+| 功能 | 地址 | 说明 |
+|------|------|------|
+| 视频与音频，能做什么 | http://aitkh.com/tools/mediaPossibilities | 按场景导览影音能力并跳转 |
+| 多媒体工具 | http://aitkh.com/tools/media | 影音能力入口页 |
+| 提取音频 | http://aitkh.com/tools/extractAudio | 从视频导出音频 |
+| 裁剪视频 | http://aitkh.com/tools/trimVideo | 保留指定时间段，默认导出 MP4 |
+| 视频截图 | http://aitkh.com/tools/videoScreenshot | 每秒截取，最多 10 张 PNG |
+| 视频转 GIF | http://aitkh.com/tools/videoToGif | 短片段转动图（建议 ≤10 秒） |
+| 添加配乐 | http://aitkh.com/tools/videoBgm | 混合原声或替换音轨 |
+| 视频静音 | http://aitkh.com/tools/videoMute | 移除音轨，保留画面 |
+| 媒体信息 | http://aitkh.com/tools/mediaInfo | 读取编码、容器与元数据 |
+
+## 音频工具（2）
+
+| 功能 | 地址 | 说明 |
+|------|------|------|
+| 文本转语音 | http://aitkh.com/tools/textToSpeech | 在线神经网络音色生成 / 播放 / 下载 |
+| 本地语音工作台 | http://aitkh.com/tools/speech | 文件或麦克风：语音识别与关键词唤醒 |
+
+## 娱乐工具（1）
+
+| 功能 | 地址 | 说明 |
+|------|------|------|
+| 梗的编年史 | http://aitkh.com/tools/meme | 2012–2026 中文互联网梗：搜索、漫游、竞猜 |
+
+## 附录：存在页面但未进首页工具清单
+
+| 功能 | 地址 | 说明 |
+|------|------|------|
+| 多视图工具 | http://aitkh.com/tools/multi-view | 同屏展示多个工具 |
+| 加解密工作台 | http://aitkh.com/tools/crypto | 摘要、对称/RSA、签名校验等 |
+| 流程图编辑器 | http://aitkh.com/diagram | 独立页面 |
+| 图片标注 | http://aitkh.com/annotation | 独立页面 |
