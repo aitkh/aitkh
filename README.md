@@ -1,6 +1,6 @@
 # AITKH Feature Catalog
 
-> 中文版：[README_CN.md](https://github.com/aitkh/aitkh/blob/main/README_CN)
+> 中文版：[README_CN.md](https://github.com/aitkh/aitkh/blob/main/README_CN.md)
 
 ## Text Processing (5)
 
